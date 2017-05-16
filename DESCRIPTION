@@ -1,0 +1,11 @@
+Package: shufflr
+Type: Package
+Title: Target Shuffling
+Version: 0.1.0
+Author: Sam Brady
+Maintainer: Sam Brady (sambrady3@gmail.com)
+Description: Implements target shuffling for tidy dataframes, and
+    provides quick access to common target shuffling plots.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
